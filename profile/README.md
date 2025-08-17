@@ -1,6 +1,6 @@
 
 #
-![902598](https://cdn.ghost143.de/5X_logo_github_ready.png)
+![902598](https://raw.githubusercontent.com/Project-BlackFN/upload/refs/heads/main/logo.png)
 
 #  #Developer
 
