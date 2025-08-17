@@ -4,7 +4,7 @@
 #
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Project-BlackFN)
 #
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Project-BlackFN&show_icons=true&theme=tokyonight&layout=compact)
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs?organization=Project-BlackFN&show_icons=true&theme=tokyonight&layout=compact)
 
 
 #  #Developer
