@@ -4,6 +4,6 @@
 
 #  #Developer
 
-Languages used: **TypeScript, C#, C++
+Languages used: **TypeScript, C#, C++**
 
 #
